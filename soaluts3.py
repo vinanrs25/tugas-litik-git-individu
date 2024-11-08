@@ -6,6 +6,8 @@ Kelas   : RPL 1B
 SOAL UTS 3
 """
 
+print("Ini adalah cara berhitung dengan lagu bebek kecil")
+
 bebek = int(input("Berapa jumlah bebek kecil yang mau kamu hitung? "))
 
 while bebek > 0:
