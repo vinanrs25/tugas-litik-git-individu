@@ -9,6 +9,7 @@ SOAL UTS 1
 kesempatan_login = 3
 
 print("Silahkan login")
+print("Kesempatan anda hanya 3 kali")
 
 
 while kesempatan_login > 0:
